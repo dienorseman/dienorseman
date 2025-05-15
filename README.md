@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @dienorseman
-- 👀 I’m interested in coding, rick and morty and videogames
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on web, mobile and game development
+# **Edgar Renan López Silva**  
+### FullStack Developer | Data Science, AI, softward Engineer  
 
+**Tecnologías Principales**  
+- Frontend: React, React Native, TypeScript  
+- Backend: Node.js, Express, Python (FastAPI/Flask)  
+- Data/AI: Pandas, Scikit-learn, TensorFlow, LLMs  
+- DevOps: AWS, Docker, CI/CD  
 
-<!---
-dienorseman/dienorseman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Experiencia Relevante**  
+- Desarrollé aplicaciones fullstack con arquitecturas escalables (MERN, PERN)  
+- Implementé modelos de ML en producción para [sector/industria]  
+- Lideré equipos ágiles en proyectos móviles (React Native + Node)  
+
+**Contacto**  
+📩 rlopez.sile@gmail.com | 🔗 https://roaring-dusk-93e4c8.netlify.app/
