@@ -1,5 +1,5 @@
-# **Edgar Renan López Silva**  
-### FullStack Developer | Data Science, AI, softward Engineer  
+**Edgar Renan López Silva**  
+## FullStack Developer | Data Science, AI, softward Engineer  
 
 **Tecnologías Principales**  
 - Frontend: React, React Native, TypeScript  
