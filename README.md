@@ -1,4 +1,4 @@
-#**Edgar Renan López Silva**  
+# **Edgar Renan López Silva**  
 ## FullStack Developer | Software Engineer  
 
 **Tecnologías Principales**  
